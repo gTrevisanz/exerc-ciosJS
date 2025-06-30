@@ -1,8 +1,5 @@
-// EXERCÍCIO 01
-// Crie um array;
-// Monte um array chamado "animais" contendo cinco strings, cada uma representando o nome de um animal;  
 
-let animais = ["cachorro","gato","gorila","camaleão", "arara", "papagaio"];
+let animais = ["cachorro","gato","gorila","iguana", "aranha", "macaco"];
 for (let i = 0; i < animais.length; i++){
     console.log(animais[i]);
 }
